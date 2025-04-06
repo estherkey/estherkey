@@ -1,4 +1,19 @@
-## Hi there 👋
+From the lab bench 👩🏻‍🔬 to data breakthroughs 📊 – I pivoted from life science research to statistical programming for one main reason. 
+#### I want to spend my career doing something that matters.
+What matters most to me is seeing how my work directly improves patients’ lives.
+
+### Hi! I’m Esther 👋, 
+a Research Associate turned Statistical Programmer with a proven history of extracting meaningful insights from real-world data by developing Tables, Figures, and Listings (TFLs).
+
+I love the challenge of uncovering hidden trends through programming, knowing that my work can directly drive innovative healthcare solutions. 
+
+🔭 I’m currently working on projects that map mock CRF data into SDTM/ADaM datasets using SAS.
+
+🌱 I’m also diving into R Shiny to create interactive visualizations — and eager to learn more about clinical reporting in R!
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/esther-ki/) — I’d love to chat or collaborate! 
+
+Thanks for visiting my GitHub, and have a great day! 
 
 <!--
 **estherkey/estherkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
