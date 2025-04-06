@@ -1,6 +1,6 @@
 From the lab bench 👩🏻‍🔬 to data breakthroughs 📊 – I pivoted from life science research to statistical programming for one main reason. 
-#### I want to spend my career doing something that matters.
-What matters most to me is seeing how my work directly improves patients’ lives.
+#### I want to spend my career doing work that makes a difference.
+What drives me most is knowing that my code can help improve patients’ lives.
 
 ### Hi! I’m Esther 👋, 
 a Research Associate turned Statistical Programmer with a proven history of extracting meaningful insights from real-world data by developing Tables, Figures, and Listings (TFLs).
